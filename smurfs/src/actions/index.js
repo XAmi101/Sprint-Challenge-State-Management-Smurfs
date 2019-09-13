@@ -39,6 +39,3 @@ export const postData = (newSmurf) => {
     }
 }
 
-
-}
-
